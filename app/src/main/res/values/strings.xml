@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SoundPaySDKApp</string>
+    <string name="listen">Listen</string>
+    <string name="send">Send</string>
+    <string name="write_something_to_send">write something to send</string>
+    <string name="result">...</string>
+</resources>
